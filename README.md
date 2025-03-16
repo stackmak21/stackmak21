@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stackmak21
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI and UIkit
-- 💞️ I’m looking to collaborate on new or existing iOS projects and also on industrial automation process
+- 💞️ I’m looking to collaborate on new or existing iOS projects 
 - 📫 How to reach me parhsmakrhs98@gmail.com | stackmak21@gmail.com
 
 
