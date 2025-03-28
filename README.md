@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stackmak21
+- 👋 Hi, I’m Paraskevas Makris
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI and UIkit
 - 💞️ I’m looking to collaborate on new or existing iOS projects 
